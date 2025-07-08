@@ -63,6 +63,5 @@ Develop SQL-based analytics to deliver detailed insights  into:
 
 These insights empower stakeholders with key businesss metrics, enabling stragetic decison-making.
 
-# Repository Structure
-![Screenshot 2025-07-08 233220](https://github.com/user-attachments/assets/098a7826-abdf-4d89-bcda-15c212b61862)
-
+# License
+This project is licensed under the [MIT License](). You are free to use, modeify and share this project with proper attribution.
